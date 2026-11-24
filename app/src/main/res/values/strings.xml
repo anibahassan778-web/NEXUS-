@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">NEXUS</string>
+    <string name="app_tagline">No Internet. Just Connection.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Mesh</string>
+    <string name="nav_nearby">Nearby</string>
+    <string name="nav_ptt">Radio</string>
+    <string name="nav_network">Network</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home -->
+    <string name="action_connect_nearby">Connect Nearby</string>
+    <string name="action_discover_devices">Discover Devices</string>
+    <string name="section_connected_peers">Mesh Nodes</string>
+    <string name="section_recent_chats">Conversations</string>
+    <string name="empty_peers_title">No nodes linked yet</string>
+    <string name="empty_peers_subtitle">Tap Connect Nearby to scan Bluetooth, Wi-Fi Direct, and Local Hotspot peers.</string>
+    <string name="empty_chats_title">No offline threads</string>
+    <string name="empty_chats_subtitle">Link with a nearby NEXUS device or create a local group channel to start messaging without internet.</string>
+
+    <!-- Nearby -->
+    <string name="nearby_scanning">Scanning local spectrum…</string>
+    <string name="nearby_idle">Radar standing by</string>
+    <string name="action_scan_now">Scan Spectrum</string>
+    <string name="action_stop_scan">Pause Scan</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_connected">Linked</string>
+
+    <!-- Chat -->
+    <string name="chat_input_hint">Encrypted offline message…</string>
+    <string name="chat_send">Send</string>
+    <string name="chat_record_voice">Hold or tap to record voice note</string>
+    <string name="chat_attach_image">Gallery</string>
+    <string name="chat_take_photo">Camera</string>
+    <string name="chat_attach_file">File / Media</string>
+
+    <!-- Walkie-Talkie -->
+    <string name="ptt_title">Mesh Walkie-Talkie</string>
+    <string name="ptt_hold_hint">Hold to Transmit Audio</string>
+    <string name="ptt_transmitting">TRANSMITTING LIVE…</string>
+
+    <!-- Network -->
+    <string name="network_host_hotspot">Host Local Hotspot</string>
+    <string name="network_create_p2p_group">Host Wi-Fi Direct Group</string>
+    <string name="network_join_by_ip">Connect by Local IP</string>
+    <string name="network_topology_title">Decentralized Mesh Topology</string>
+
+    <!-- Settings -->
+    <string name="settings_profile">Node Identity</string>
+    <string name="settings_transport">Transport &amp; Mesh Mode</string>
+    <string name="settings_radios">Hardware Radios</string>
+    <string name="settings_storage">Storage, Gallery &amp; Transfers</string>
+    <string name="settings_appearance">Interface Theme</string>
+</resources>

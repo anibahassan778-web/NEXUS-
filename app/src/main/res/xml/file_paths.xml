@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="camera_captures" path="camera_captures/" />
+    <files-path name="nexus_media" path="nexus_media/" />
+    <files-path name="nexus_files" path="nexus_files/" />
+</paths>

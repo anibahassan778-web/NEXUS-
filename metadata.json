@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS",
+  "description": "No Internet. Just Connection. Offline decentralized peer-to-peer messaging over Bluetooth, Wi-Fi Direct, and local hotspot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
